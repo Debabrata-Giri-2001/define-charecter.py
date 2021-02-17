@@ -1,2 +1,2 @@
 # define-charecter.py
-Mini game using random nodule 
+Mini game using random modules
