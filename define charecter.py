@@ -2,15 +2,7 @@
 SO CNA U KNOW YOUR partner_charector for  IN MY PROGRAM
 try'it
 
-****************************************************
-
-      
-              
-      
-              
-               
-     
-                
+************************************************              
 
 '''
 import random
